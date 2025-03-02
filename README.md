@@ -4,6 +4,10 @@
 
 HTTPMux is a custom HTTP multiplexer written in Go, allowing you to map URL paths to handler functions. It works similarly to Go's `http.ServeMux`, but is implemented from scratch for educational purposes.
 
+## Documentation
+
+https://pkg.go.dev/github.com/jaskaran27177/go-httpmux
+
 ## Usage
 
 - **Register Handlers**: Use `HandlePathFunc` to map a URL path to a handler function.
